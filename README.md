@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour ! 👾
+![Dropbox, the new Git](https://i.redd.it/hyyapbqpp3v91.jpg "Dropbox, the new Git")
+
 
 <!--
 **eloiselcr/eloiselcr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
